@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    color: #222222;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: 'Open Sans';
+    background-color: #fafafa;
+}
+
+.page{
+    float:left;
+    background-color: #efefef;
+}
+
+.top{
+    float: left;
+    width: 100%;
+    background-color: #b9c2cb;
+    padding-left: 60px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: black;
+}
+
+.avatar img{
+    max-width: 250px;
+    max-height: 350px;
+}
+
+.block{
+    float: left;
+    width:400px;
+    height: 700px;
+    padding: 30px;
+    box-sizing: border-box;
+    margin:30px;
+    display: block;
+    text-align: center;
+    border: white;
+    background-color: grey;
+}
+
+.details{
+    float: left;
+    width: 250px;
+    height: 30px;
+    color: white;
+    background-color: #222222;
+    text-align: center;
+    margin: 45px;
+}
+
+.price{
+    font-size: 20px;
+}
+
