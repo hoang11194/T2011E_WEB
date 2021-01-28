@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code">
-      <change beforePath="$PROJECT_DIR$/imgs/gioi thieu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bai_tap_nhom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bai_tap_nhom.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,7 @@
       <workItem from="1611572882874" duration="6990000" />
       <workItem from="1611747658348" duration="1738000" />
       <workItem from="1611749456256" duration="6122000" />
-      <workItem from="1611825214409" duration="17017000" />
+      <workItem from="1611825214409" duration="17566000" />
     </task>
     <task id="LOCAL-00001" summary="hoc lam code">
       <created>1608895841337</created>
@@ -225,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611842342482</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="hoc lam code">
+      <created>1611842576257</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611842576257</updated>
+    </task>
+    <task id="LOCAL-00018" summary="hoc lam code">
+      <created>1611842740514</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611842740514</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

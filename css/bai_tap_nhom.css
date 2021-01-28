@@ -42,8 +42,8 @@ body {
     transition: all .2s;
 }
 
-.navigation-left a:hover,
-.navigation-left a:focus {
+.navigation-left p:hover,
+.navigation-left p:focus {
     border-color: rgb(234, 46, 73);
     background-color: rgba(44, 45, 47, 0);
 }
