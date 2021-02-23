@@ -7,7 +7,7 @@
 .anh{
     float: left;
     padding: 50px;
-    width: 40%;
+    max-width: 40%;
 }
 .tieude{
     float: left;
