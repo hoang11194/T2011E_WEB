@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code">
+      <change afterPath="$PROJECT_DIR$/gioithieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai_tap_nhom.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai_tap_nhom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baicuahoang.html" beforeDir="false" afterPath="$PROJECT_DIR$/baicuahoang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -115,7 +118,7 @@
       <workItem from="1611872734525" duration="3854000" />
       <workItem from="1613994183067" duration="51000" />
       <workItem from="1614093166327" duration="2620000" />
-      <workItem from="1614096269003" duration="2030000" />
+      <workItem from="1614096269003" duration="3329000" />
     </task>
     <task id="LOCAL-00001" summary="hoc lam code">
       <created>1608895841337</created>
@@ -285,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614098057855</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="hoc lam code">
+      <created>1614098322042</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1614098322042</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
