@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code">
+      <change afterPath="$PROJECT_DIR$/baicuatrung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/baicuatrung.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/fullpage.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fullpage.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai_tap_nhom.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai_tap_nhom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bai_tap_nhom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bai_tap_nhom.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -116,6 +118,7 @@
       <workItem from="1611825214409" duration="17938000" />
       <workItem from="1611872734525" duration="3854000" />
       <workItem from="1613994183067" duration="51000" />
+      <workItem from="1614093166327" duration="970000" />
     </task>
     <task id="LOCAL-00001" summary="hoc lam code">
       <created>1608895841337</created>
@@ -257,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611873097082</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="bai tap nhom">
+      <created>1614093187759</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1614093187759</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,7 +287,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hoc lam code" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoc lam code" />
+    <MESSAGE value="bai tap nhom" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai tap nhom" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
