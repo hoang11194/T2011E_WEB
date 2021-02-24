@@ -1,6 +1,5 @@
 var TIMEOUT = 6000;
 
-
 var interval = setInterval(handleNext, TIMEOUT);
 
 function handleNext() {
@@ -28,5 +27,4 @@ function handleNext() {
             .attr('checked', true);
 
     }
-
 }
