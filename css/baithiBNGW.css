@@ -1,0 +1,14 @@
+.navbar-brand{
+    float:right;
+}
+.search{
+    float:right;
+}
+.content{
+    background-color: #d0d495;
+    text-decoration: #0f0f0f;
+}
+
+.DivLeft{
+    background-color: #0f0f0f;
+}

@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code">
+      <change afterPath="$PROJECT_DIR$/baithiBNGW.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/baithiBNGW.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/arrow_breadcrumbs.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/highlight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/hr_green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/lotto.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/m3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/print.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/sac.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/send.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/showcase_wide.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/sp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/sp_green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/sp_white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thi/top.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai_tap_nhom.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai_tap_nhom.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +60,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/thi" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\WebstormProjects\T2011E_WEB\thi" />
       <recent name="C:\Users\hp\WebstormProjects\T2011E_WEB\libs" />
       <recent name="C:\Users\hp\WebstormProjects\T2011E_WEB\nivo slider" />
       <recent name="C:\Users\hp\WebstormProjects\T2011E_WEB\libs\bootstrap3.4.1" />
@@ -120,7 +138,8 @@
       <workItem from="1614100571201" duration="278000" />
       <workItem from="1614100883224" duration="46000" />
       <workItem from="1614149741524" duration="3010000" />
-      <workItem from="1614163545690" duration="3177000" />
+      <workItem from="1614163545690" duration="4507000" />
+      <workItem from="1614337500801" duration="6373000" />
     </task>
     <task id="LOCAL-00001" summary="hoc lam code">
       <created>1608895841337</created>
@@ -402,7 +421,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614166960473</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="hoc lam code">
+      <created>1614168093252</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1614168093252</updated>
+    </task>
+    <task id="LOCAL-00042" summary="hoc lam code">
+      <created>1614168139842</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1614168139842</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
