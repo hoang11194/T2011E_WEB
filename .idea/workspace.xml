@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code">
-      <change afterPath="$PROJECT_DIR$/baithiBNGW.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/baithiBNGW.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/arrow_breadcrumbs.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/highlight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/hr_green.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/lotto.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/m3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/print.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/sac.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/send.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/showcase_wide.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/sp.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/sp_green.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/sp_white.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thi/top.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai_tap_nhom.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai_tap_nhom.html" afterDir="false" />
-    </list>
+    <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +120,7 @@
       <workItem from="1614100883224" duration="46000" />
       <workItem from="1614149741524" duration="3010000" />
       <workItem from="1614163545690" duration="4507000" />
-      <workItem from="1614337500801" duration="6373000" />
+      <workItem from="1614337500801" duration="6698000" />
     </task>
     <task id="LOCAL-00001" summary="hoc lam code">
       <created>1608895841337</created>
@@ -435,7 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614168139842</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="hoc lam code">
+      <created>1614343971824</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1614343971824</updated>
+    </task>
+    <task id="LOCAL-00044" summary="hoc lam code">
+      <created>1614344042476</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1614344042476</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
