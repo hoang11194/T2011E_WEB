@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baithiBNGW.html" beforeDir="false" afterPath="$PROJECT_DIR$/baithiBNGW.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/baithiBNGW.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baithiBNGW.css" afterDir="false" />
-    </list>
+    <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,21 +120,7 @@
       <workItem from="1614100883224" duration="46000" />
       <workItem from="1614149741524" duration="3010000" />
       <workItem from="1614163545690" duration="4507000" />
-      <workItem from="1614337500801" duration="9704000" />
-    </task>
-    <task id="LOCAL-00001" summary="hoc lam code">
-      <created>1608895841337</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1608895841337</updated>
-    </task>
-    <task id="LOCAL-00002" summary="hoc lam code">
-      <created>1608896211394</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1608896211394</updated>
+      <workItem from="1614337500801" duration="10006000" />
     </task>
     <task id="LOCAL-00003" summary="hoc lam code">
       <created>1608896956596</created>
@@ -462,7 +444,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614351862747</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="hoc lam code">
+      <created>1614352626872</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1614352626872</updated>
+    </task>
+    <task id="LOCAL-00050" summary="hoc lam code">
+      <created>1614352818487</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1614352818488</updated>
+    </task>
+    <task id="LOCAL-00051" summary="hoc lam code">
+      <created>1614352829832</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1614352829832</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
