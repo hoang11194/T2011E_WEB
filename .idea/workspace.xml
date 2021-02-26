@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code" />
+    <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baithiBNGW.html" beforeDir="false" afterPath="$PROJECT_DIR$/baithiBNGW.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/baithiBNGW.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/baithiBNGW.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +124,7 @@
       <workItem from="1614100883224" duration="46000" />
       <workItem from="1614149741524" duration="3010000" />
       <workItem from="1614163545690" duration="4507000" />
-      <workItem from="1614337500801" duration="6698000" />
+      <workItem from="1614337500801" duration="8480000" />
     </task>
     <task id="LOCAL-00001" summary="hoc lam code">
       <created>1608895841337</created>
@@ -430,7 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614344042476</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="hoc lam code">
+      <created>1614344347919</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1614344347919</updated>
+    </task>
+    <task id="LOCAL-00046" summary="hoc lam code">
+      <created>1614344496841</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1614344496841</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

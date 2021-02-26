@@ -11,4 +11,8 @@
 
 .DivLeft{
     background-color: #0f0f0f;
+    float: left;
+}
+.DivRight{
+    float:right;
 }
