@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70e5217-1c2d-40f8-a997-572bd5f2ab56" name="Default Changelist" comment="hoc lam code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baithiBNGW.html" beforeDir="false" afterPath="$PROJECT_DIR$/baithiBNGW.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,21 +122,7 @@
       <workItem from="1614100883224" duration="46000" />
       <workItem from="1614149741524" duration="3010000" />
       <workItem from="1614163545690" duration="4507000" />
-      <workItem from="1614337500801" duration="10612000" />
-    </task>
-    <task id="LOCAL-00004" summary="hoc lam code">
-      <created>1608898091355</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1608898091355</updated>
-    </task>
-    <task id="LOCAL-00005" summary="hoc lam code">
-      <created>1608901741957</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1608901741957</updated>
+      <workItem from="1614337500801" duration="10918000" />
     </task>
     <task id="LOCAL-00006" summary="hoc lam code">
       <created>1608901980206</created>
@@ -468,7 +453,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614353157790</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="hoc lam code">
+      <created>1614353733051</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1614353733051</updated>
+    </task>
+    <task id="LOCAL-00054" summary="hoc lam code">
+      <created>1614353821950</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1614353821950</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
